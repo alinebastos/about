@@ -1,11 +1,14 @@
 ### About Me
 
-I work as front-end developer since 2002. Eight years working with personal and freelance projects as a hobby, and more 
-than six years of professional experience. I am passionate for clean, organized and reusable CSS, responsive web development, attention to details, semantic HTML and inclusive cross-browser compatibility. I love working with JavaScript to create accessible and inclusive web applications.
+I work as front-end developer since 2002. Eight years working with personal and freelance projects as a hobby, and more than seven years of professional experience. I am passionate for clean, organized and reusable CSS, responsive web development, attention to details, semantic HTML and inclusive cross-browser compatibility. I enjoy working with JavaScript to create accessible and inclusive web applications.
 
 ### Blog Posts
 
 * [Para quem acha que não existe machismo na área de TI](https://medium.com/@alinebastos/para-quem-acha-que-n%C3%A3o-existe-machismo-na-%C3%A1rea-de-ti-2fa748bee7e2#.qhreetaw4) (in Portuguese)
+
+* [Como é trabalhar como Front-End Developer, por Aline Bastos](https://medium.com/trainingcenter/como-%C3%A9-trabalhar-como-front-end-developer-por-aline-bastos-ea00f8f3f44a) (in Portuguese)
+
+* [Os melhores cursos online para aprender JavaScript](https://braziljs.org/blog/os-melhores-cursos-online-para-aprender-javascript/) (in Portuguese)
 
 ### Portfolio
 
